@@ -1,0 +1,7 @@
+{
+    "id":  "stellardrive-shipreposition",
+    "name":  "Ship Reposition Fix",
+    "author":  "Krunk",
+    "version":  "0.1.0",
+    "description":  "Fixes the currently, very buggy ship reposition system. Gives you more control as well as the ability to break trees around it. Needs SDModKit."
+}
